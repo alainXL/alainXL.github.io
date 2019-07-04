@@ -22,7 +22,7 @@ sdhasdasd
 
 ### Add Link
 
-[Link to a page](http://about.index)
+[Link to a page](./about.html)
 
 ### Working with lib
 
