@@ -22,4 +22,4 @@ sdhasdasd
 
 ### Add Link
 
-[Link to a page]({% /about.html %})
+[Link to a page]({% link /about.html %})
