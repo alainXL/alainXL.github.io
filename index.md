@@ -27,5 +27,5 @@ sdhasdasd
 ### Working with lib
 
 {% for item in site.data.listuser.docs %}
-*** {{ item.title }} ***
+***{{ item.title }}***
 {% endfor %}
