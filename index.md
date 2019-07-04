@@ -19,3 +19,5 @@ sdhasdasd
 	def F(x):
 		return 1 if x == 0 or x == 1 else F(x - 1) + F(x - 2)
 ```
+
+{{ "/assets/style.css" | absolute_url }}
