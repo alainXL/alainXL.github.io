@@ -26,6 +26,7 @@ sdhasdasd
 
 ### Working with lib
 
-{% for item in site.data.listuser.docs %}
-|{{ item.name }}|{{item.year}}|{{item.email}}|{{item.picture}}|
-{% endfor %}
+|Name|Year|Email|Picture|
+|----|----|-----|-------|
+|Alain Cartaya|4|a.cartaya@estudiantes.matcom.uh.cu|carabana.jpg|
+|David Cancio |4|d.cancio@estudiantes.matcom.uh.cu |carabana.jpg|
