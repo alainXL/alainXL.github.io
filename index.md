@@ -26,8 +26,6 @@ sdhasdasd
 
 ### Working with lib
 
-|Name|Year|Email|Picture|
-|----|----|-----|-------|
 {% for item in site.data.listuser.docs %}
-| {{item.name}} | {{item.year}} | {{item.email}} | {{item.picture}} |
+* | {{item.name}} | {{item.year}} | {{item.email}} | {{item.picture}} |
 {% endfor %}
