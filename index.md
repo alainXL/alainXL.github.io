@@ -26,7 +26,7 @@ sdhasdasd
 
 ### Working with lib
 
-{% for item in site.data.samplelist.docs %}
+{% for item in site.data.listuser.docs %}
 
 lalala
 {{ item.title }}
