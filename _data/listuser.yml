@@ -6,8 +6,22 @@ docs:
   picture: carabana.jpg
   year: 4
 
+<<<<<<< HEAD
 - name: David Cancio
   email: d.cancio@estudiantes.matcom.uh.cu
   picture: carabana.jpg
   year: 4
 
+=======
+- title: David Cancio Milián
+  url: about.html
+
+- title: Andres
+  url: about.html
+
+- title: Piltrafalario
+  url: about.html
+
+- title: EstoEstaSuperBueno
+  url: about.html
+>>>>>>> 0a297421e80aef488add170429c6145096c3216b
