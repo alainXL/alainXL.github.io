@@ -27,5 +27,8 @@ sdhasdasd
 ### Working with lib
 
 {% for item in site.data.samplelist.docs %}
-      {{ item.title }}
+
+lalala
+{{ item.title }}
+
 {% endfor %}
