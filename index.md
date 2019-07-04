@@ -23,3 +23,9 @@ sdhasdasd
 ### Add Link
 
 [Link to a page](http://about.index)
+
+### Working with lib
+
+{% for item in site.data.samplelist.docs %}
+      {{ item.title }}
+{% endfor %}
