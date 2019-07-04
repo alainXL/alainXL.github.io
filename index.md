@@ -28,6 +28,6 @@ sdhasdasd
 
 |Name|Year|Email|Picture|
 |----|----|-----|-------|
-{% for item in site.data.samplelist.docs %}
+{% for item in site.data.listuser.docs %}
 | {{item.name}} | {{item.year}} | {{item.email}} | {{item.picture}} |
 {% endfor %}
